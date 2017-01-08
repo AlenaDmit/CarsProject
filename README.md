@@ -23,4 +23,6 @@
 
 	npm install plugin-name --save-dev
 	
-эта команда добавит зависимости к проекту в файле package.json
+Эта команда добавит зависимости к проекту в файле package.json
+
+* Создать собственный gulpfile.js
