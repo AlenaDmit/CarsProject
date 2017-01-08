@@ -1,6 +1,6 @@
 {
-  "name": "gulpproject",
-  "description": "gulp example compiler for Cars team",
+  "name": "cars",
+  "description": "cars project",
   "main": "index.js",
   "authors": [
     "AlenaDmit"
