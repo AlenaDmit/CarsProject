@@ -24,7 +24,12 @@
 	npm install plugin-name --save-dev
 	
 Эта команда добавит зависимости к проекту в файле package.json
+	
+	bower init
+
+Инифиализирует файл bower.json
 
 * Создать собственный gulpfile.js
 
 ## Функционал, реализованный в gulpfile.js
+будет описан позднее
